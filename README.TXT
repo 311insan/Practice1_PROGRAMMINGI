@@ -1,5 +1,5 @@
 Project 'house'
-Authors: Michael Kölling and David J. Barnes
+Authors: Michael Kölling and David J. Barnes. Modifications made by Insan Lina Belaid.
 
 This project is part of the material for the book
 
